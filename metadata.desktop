@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=last
+Description=A minimal custom SDDM theme
+Author=permafrozen
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
